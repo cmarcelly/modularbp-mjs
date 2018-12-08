@@ -1,0 +1,12 @@
+{
+  "name": "@modularbp/mjs",
+  "version": "1.0.0",
+  "description": "modularJS modules for modularBP.",
+  "repository": "modularorg/modularbp-mjs",
+  "author": "Antoine Boulanger <hello@antoineboulanger.com> (https://antoineboulanger.com)",
+  "license": "MIT",
+  "main": "src/main.js",
+  "dependencies": {
+    "modujs": "*"
+  }
+}
